@@ -1,0 +1,5 @@
+{
+  "name": "Santa's Emergency Terminal",
+  "description": "An interactive Matrix-style Linux terminal simulation for saving Christmas.",
+  "requestFramePermissions": []
+}
