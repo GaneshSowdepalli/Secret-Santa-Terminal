@@ -1,4 +1,5 @@
 🎅 Santa's Emergency Terminal
+
 I vibecoded this web app for a colleague, hosted it on Netlify, and sent the URL to them for my office's Secret Santa event. It features a simple challenge which, upon solving, reveals the hint for their gift.
 
 📖 About
